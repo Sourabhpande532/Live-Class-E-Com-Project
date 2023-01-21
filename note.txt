@@ -1,0 +1,4 @@
+Task is => there is some functionality given to me via client -
+it is going to big ecommerse project now i want more fuctionality 
+i don't only admin who login and add the products only it should be different functionality and different features
+- some features should be expose to be admin, some moderator, some user so go ahead create role base authetification

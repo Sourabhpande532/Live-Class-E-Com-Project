@@ -1,0 +1,5 @@
+vision:
+1.Most controller will talk to DB
+2.HOF somthing that take function as input or retun fun as 
+it's simple function which either take a function as a parameter or return function as a parameter.......
+Map,filter,settimeout,forEach

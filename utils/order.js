@@ -1,0 +1,10 @@
+["ORDERED", "SHIPPED", "DELIVERED", "CANCELLED"]
+
+const Order = {
+    ORDERED: "ORDERED",
+    SHIPPED: "SHIPPED",
+    DELIVERED: "DELIVERED",
+    CANCELLED: "CANCELLED"
+}
+
+export default Order;
